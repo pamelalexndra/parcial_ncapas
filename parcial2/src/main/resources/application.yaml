@@ -3,7 +3,7 @@ spring:
     name: parcial2
 
   datasource:
-    url: jdbc:postgresql://localhost:5432/magic_wand7
+    url: jdbc:postgresql://localhost:5432/magic_wand
     username: postgres
     password: tenorio26
     driver-class-name: org.postgresql.Driver

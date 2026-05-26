@@ -1,7 +1,6 @@
 package org.example.parcial2.controllers;
 
 import jakarta.validation.Valid;
-import org.springframework.web.bind.annotation.GetMapping;
 import org.example.parcial2.dto.request.ArticleRequest;
 import org.example.parcial2.dto.response.ArticleResponse;
 import org.example.parcial2.model.ArticleType;
@@ -10,7 +9,6 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
-import org.springframework.web.bind.annotation.*;
 import java.math.BigDecimal;
 import java.util.List;
 
